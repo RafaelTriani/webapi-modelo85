@@ -1,0 +1,6 @@
+@ApiModeloBackstage_HostAddress = http://localhost:5263
+
+GET {{ApiModeloBackstage_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
